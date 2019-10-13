@@ -1,0 +1,12 @@
+{
+  "name": "failing-repo",
+  "version": "1.0.0",
+  "description": "This repo always fails its test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: This test intentionally fails.\" && exit 1"
+  },
+  "repository": "https://github.com/crowecawcaw/failing-repo.git",
+  "author": "Stephen <steve222@gmail.com>",
+  "license": "MIT"
+}
